@@ -1,6 +1,6 @@
 # Promise Super
 
-> Self Entertainment
+> Syntactic Sugar Imitation -- Self Entertainment
 
 ```javascript
 const promiseSuper = require('promise-super')

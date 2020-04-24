@@ -1,13 +1,12 @@
 {
   "name": "promise-super",
-  "version": "1.1.8",
+  "version": "1.2.0",
   "description": "Promise Super",
   "main": "dist/main.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "scripts": {},
   "keywords": [
-    "promise"
+    "promise",
+    "promise-super"
   ],
   "author": "joenix",
   "license": "MIT",
