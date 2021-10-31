@@ -1,6 +1,6 @@
 {
   "name": "promise-super",
-  "version": "1.3.1",
+  "version": "1.3.2",
   "description": "Promise Super",
   "main": "index.js",
   "scripts": {},
